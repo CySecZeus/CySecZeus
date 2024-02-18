@@ -1,4 +1,4 @@
-# Hello, I'm Jesus Sanchez
+# Hello, I'm Jesus Sanchez (Work in Progress)
 <a href="https://linkedin.com/in/jesuss/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -12,7 +12,7 @@ I wanted to document my CyberSecurity journey while i continue to learn the tool
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/CySecZeus/SIEM-Project/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 
@@ -50,5 +50,5 @@ I wanted to document my CyberSecurity journey while i continue to learn the tool
 </div>
 
 ## Projects
-- Detection Lab
+-  <a href="https://github.com/CySecZeus/SIEM-Project/tree/main">Detection Lab</a>
 - SOC Automation Project
